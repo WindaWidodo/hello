@@ -7,5 +7,6 @@ func main() {
 	fmt.Println("hello ")
 	fmt.Println("INI TAMBAHAN")
 	fmt.Println("Sekolagh")
+	fmt.Println("Programer")
 	fmt.Println("INI BRACH TAMBAH")
 }
